@@ -27,6 +27,11 @@ cd criptografie-tema-Dinu-Eugen-Cosmin
 npm install
 ```
 
+# Compilare
+```bash
+npm run build
+```
+
 # Rulare
 ```bash
 npm run start
